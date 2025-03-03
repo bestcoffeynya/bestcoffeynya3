@@ -1,11 +1,11 @@
 /* Подключение шрифта */
 @font-face {
-    font-family: 'Share Tech Mono';
-    src: url('fonts/ShareTechMonoRegular.ttf') format('truetype');
+    font-family: 'Montserrat';
+    src: url('fonts/Montserrat-Regular.ttf') format('truetype');
 }
 
 body {
-    font-family: 'Share Tech Mono', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     margin: 0;
     padding: 0;
     background-color: #f8f1e4;
